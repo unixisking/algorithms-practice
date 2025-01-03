@@ -1,0 +1,35 @@
+# Maven build directory
+/target/
+
+# Eclipse project files
+/.settings/
+/.classpath
+/.project
+/.vscode/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# NetBeans project files
+/nbproject/
+
+# Java compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven wrapper files (if using Maven wrapper)
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific configuration files
+.idea/
+*.sublime-workspace
+*.sublime-project
